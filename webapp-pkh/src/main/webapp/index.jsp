@@ -9,7 +9,7 @@
     <link rel="icon" href="../../favicon.ico">
 
     <title>Jumbotron Template for Bootstrap</title>
-
+/*  PKH insert */
 
     <!-- Custom styles for this template -->
     <!-- Custom styles for this template -->
